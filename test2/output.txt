@@ -1,0 +1,10 @@
+- Expected
+
+should compile
+exit code 6
+
+- Tests
+
+local variables inside procedures
+local scope
+parameter + local arithmetic
