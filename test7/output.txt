@@ -1,0 +1,8 @@
+- Expected
+
+should fail
+semantic error
+
+- Covers
+
+local variables cannot be declared twice in the same local scope
