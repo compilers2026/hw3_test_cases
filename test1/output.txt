@@ -1,0 +1,11 @@
+- Expected
+
+should compile
+running executable should return exit code 9
+
+- Tests
+
+procedure declaration
+one parameter
+procedure call as a statement
+parameter passing works
