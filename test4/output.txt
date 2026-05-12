@@ -1,0 +1,9 @@
+- Expected
+
+should fail
+parser/semantic error
+should not produce a runnable executable
+
+- Tests
+
+end identifier must match declared procedure/function name
