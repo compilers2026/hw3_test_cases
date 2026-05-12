@@ -1,0 +1,9 @@
+- Expected
+
+should fail
+semantic error
+should not produce a runnable executable
+
+- Tests
+
+function must return a value
