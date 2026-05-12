@@ -1,0 +1,11 @@
+- Expected
+
+should compile
+exit code 15
+
+- Tests
+
+function declaration
+parameter lists
+function call as operand
+return by assigning to function name
