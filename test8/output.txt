@@ -1,0 +1,9 @@
+- Expected
+
+should fail
+semantic error
+
+- Covers
+
+identifiers must be declared before use
+symbol lookup inside procedure scope.
