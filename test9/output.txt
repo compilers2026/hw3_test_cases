@@ -1,0 +1,9 @@
+- Expected
+
+should compile
+exit code 11
+
+- Covers
+
+distinct global and subroutine scopes
+parameter belongs to subroutine scope, not global scope.
